@@ -1,0 +1,19 @@
+{
+  "name": "ruff-nfts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsx build.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashlips-lab/art-engine": "^2.0.0-alpha7",
+    "sharp": "^0.34.2",
+    "tsx": "4.20.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.1"
+  }
+}
